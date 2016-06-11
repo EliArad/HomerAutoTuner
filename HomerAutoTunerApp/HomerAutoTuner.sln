@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomerAutoTuner", "HomerAutoTuner.csproj", "{67AF9A7B-77AF-44C3-A7F0-84829476293E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNAE5071CLib", "..\VNAE5071C\VNAE5071CLib\VNAE5071CLib.csproj", "{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E5071BApp", "..\..\VNA\E5071B\E5071BApp\E5071BApp.csproj", "{3175B49D-AC3F-4C0E-8069-622673F4EF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Release|x64.ActiveCfg = Release|Any CPU
+		{67AF9A7B-77AF-44C3-A7F0-84829476293E}.Release|x86.ActiveCfg = Release|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Release|x64.ActiveCfg = Release|Any CPU
+		{7CFDD4A9-2BFD-4773-B599-0FB4456670D1}.Release|x86.ActiveCfg = Release|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Release|x64.ActiveCfg = Release|Any CPU
+		{3175B49D-AC3F-4C0E-8069-622673F4EF01}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
